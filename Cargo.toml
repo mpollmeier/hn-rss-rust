@@ -1,0 +1,7 @@
+[package]
+name = "hn-rss-rust"
+version = "0.1.0"
+authors = ["Michael Pollmeier <michael@michaelpollmeier.com>"]
+
+[dependencies]
+hyper = "0.10"
