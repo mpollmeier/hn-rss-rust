@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Daily</title>
+    <link>http://www.daemonology.net/hn-daily/</link>
+    <description>Daily top stories from Hacker News</description>
+    <language>en-ca</language>
+    <pubDate>Sat, 11 Nov 2017 00:01:31 +0000</pubDate>
+    <item>
+      <title>Daily Hacker News for 2017-11-10</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-10.html</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 10, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://jamesdysonaward.org/news/skan-james-dyson-award-2017-international-winner/">Low-cost, non-invasive melanoma detector wins award</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15662441">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://getstream.io/blog/stop-using-io-domain-names-for-production-traffic/">.IO domain name reliability issues and how we’re working around them</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15663988">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-09</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-09.html</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 09, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://www.theatlantic.com/health/archive/2017/11/paying-for-fake-friends-and-family/545060/?single_page=true">The Booming Japanese Rent-A-Friend Business</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15651510">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+  </channel>
+</rss>

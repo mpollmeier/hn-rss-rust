@@ -1,0 +1,550 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Daily</title>
+    <link>http://www.daemonology.net/hn-daily/</link>
+    <description>Daily top stories from Hacker News</description>
+    <language>en-ca</language>
+    <pubDate>Sat, 11 Nov 2017 00:01:31 +0000</pubDate>
+    <item>
+      <title>Daily Hacker News for 2017-11-10</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-10.html</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 10, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://jamesdysonaward.org/news/skan-james-dyson-award-2017-international-winner/">Low-cost, non-invasive melanoma detector wins award</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15662441">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://getstream.io/blog/stop-using-io-domain-names-for-production-traffic/">.IO domain name reliability issues and how we’re working around them</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15663988">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/">Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15664071">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://csl.name/post/python-jit/">Writing a basic x86-64 JIT compiler from scratch in stock Python</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15665581">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://medium.com/@danielgross/seven-questions-to-ask-when-interviewing-for-an-ml-job-1963ccee3a19">Business questions engineers should ask when interviewing at ML/AI companies</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15667286">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://arstechnica.com/tech-policy/2017/11/doj-strong-encryption-that-we-dont-have-access-to-is-unreasonable/">DOJ: Strong encryption that we don’t have access to is “unreasonable”</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15667385">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://lucasmreis.github.io/blog/simple-react-patterns/">Simple React Patterns</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15667778">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.justice.gov/usao-ndca/pr/former-secret-service-agent-sentenced-scheme-related-silk-road-investigation">Secret Service Agent Sentenced In Scheme Related To Silk Road Investigation</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15668897">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://twitter.com/h0t_max/status/928269320064450560">“We have obtained fully functional JTAG for Intel CSME via USB DCI”</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15669262">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.antipope.org/charlie/blog-static/2017/11/burn-the-programmer.html">Burn the Programmer</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15670507">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-09</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-09.html</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 09, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://www.theatlantic.com/health/archive/2017/11/paying-for-fake-friends-and-family/545060/?single_page=true">The Booming Japanese Rent-A-Friend Business</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15651510">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://techcrunch.com/2017/11/08/chia-network-cryptocurrency">BitTorrent inventor announces eco-friendly Bitcoin competitor Chia</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15655840">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.washingtonpost.com/world/national-security/justice-department-moves-to-end-routine-gag-orders-on-tech-firms/2017/10/23/df8300bc-b848-11e7-9e58-e6288544af98_story.html?utm_term=.4f3da68632f5">Justice Department moves to end routine gag orders on tech firms</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15657186">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.anandtech.com/show/12017/intel-to-develop-discrete-gpus-hires-raja-koduri-as-chief-architect">Intel to Develop Discrete GPUs, Hires AMD's Raja Koduri as Chief Architect</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15657800">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/">Senators push to ditch social security numbers in light of Equifax hack</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15657887">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.asia.finance/entrepreneur/entrepreneurs-not-special-breed/">Entrepreneurs Aren’t a Special Breed – They’re Mostly Rich Kids</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15658543">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.lofibucket.com/articles/oscilloscope_quake.html">Quake on an oscilloscope (2014)</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15659172">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://headmelted.com/i-bought-a-switch-from-nintendo-and-they-threatened-me-with-legal-action-6ea77b4f1eb9">I bought a Switch from Nintendo and they threatened me with legal action</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15661465">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://medium.com/@filiph/skyrim-rendered-in-text-1899548ab2c4">Skyrim rendered in text</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15661490">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.axios.com/sean-parker-unloads-on-facebook-2508036343.html">Sean Parker unloads on Facebook “exploiting” human psychology</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15662004">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-08</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-08.html</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 08, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://distill.pub/2017/feature-visualization/">Feature Visualization: How neural nets build up their understanding of images</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15646037">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://markdown-here.com/index.html">Markdown Here – Write email in Markdown</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15646425">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://sqlite.org/src4/info/c0b7f14c0976ed5e">Work on SQLite4 has concluded</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15648280">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://stanleylieber.com/2017/11/07/0/">You Will Not Understand This</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15649499">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://ibm.github.io/type/">IBM Type</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15650663">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://projekte.sueddeutsche.de/paradisepapers/politik/dear-tim-cook-e322998/">Paradise Papers: Dear Tim Cook</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15651058">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB/last/eu/k/p/yearly/s/false/4.8255/30/curve/false">Explore Wealth and Income Inequality in the World Wealth and Income Database</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15652493">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.bloomberg.com/graphics/2017-retail-debt/">America’s ‘Retail Apocalypse’ Is Really Just Beginning</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15653871">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000685.html">Segwit2x Bitcoin Fork Suspended</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15654411">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://arstechnica.com/tech-policy/2017/11/voters-reject-cable-lobby-misinformation-campaign-against-muni-broadband/">Voters say “yes” to city-run broadband in Colorado</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15655548">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-07</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-07.html</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 07, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://www.wsj.com/articles/rivals-intel-and-amd-team-up-on-pc-chips-to-battle-nvidia-1509966064">Rivals Intel and AMD Team Up on PC Chips to Battle Nvidia</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15635249">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://aerolab.co/blog/flexbox-grids/">Flexbox and Grids: your layout’s best friends</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15637111">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://github.com/hemanth/functional-programming-jargon">Functional Programming Jargon</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15641701">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://dronegarageblog.wordpress.com/2017/11/06/bayangtoys-x16-inexpensive-durable-hackable-gps-drone">Bayangtoys X16: Inexpensive, durable, hackable GPS drone</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15642041">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.cs.vu.nl/~ast/intel/">An Open Letter to Intel</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15642116">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://github.com/xxhomey19/nba-go">NBA GO – Watch NBA in Your Terminal</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15642276">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://paritytech.io/blog/security-alert.html">Parity Wallet security alert</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15642856">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://tttthreads.com/thread/927593460642615296">Almost everything on computers is perceptually slower than it was in 1983</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15643663">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html">LA Times barred from Disney movies after report on corporate welfare</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15644520">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/">Waymo now testing its self-driving cars on public roads with no one at the wheel</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15644680">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-06</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-06.html</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 06, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://www.msn.com/en-us/money/companies/28-year-old-makes-millions-buying-from-walmart-selling-on-amazon/ar-AAupB8i">28-year-old makes millions buying from Walmart, selling on Amazon</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15631034">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://tttthis.com/rememberwebsites.php/">Does anyone remember websites?</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15631565">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive">How slot machines are designed to be addictive</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15632058">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://edwardtufte.github.io/tufte-css/">Tufte CSS</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15633102">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://jaycarlson.net/microcontrollers/">Exploring different microcontrollers less than $1</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15633785">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://tonsky.me/blog/chrome-intervention/">Chrome breaks the Web</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15634609">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://masteringpostgresql.com">Mastering PostgreSQL in Application Development</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15634953">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.bloomberg.com/news/articles/2017-11-06/broadcom-offers-130-billion-for-qualcomm-in-landmark-tech-deal">Broadcom Offers $105B for Qualcomm in Landmark Deal</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15635022">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">The sound of the dialup, pictured (2012)</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15635144">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.bbc.co.uk/news/world-us-canada-41889787">How Apple sidestepped a 2013 crackdown on its Irish tax practices</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15637330">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-05</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-05.html</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 05, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="http://nymag.com/daily/intelligencer/2017/10/whos-sitting-next-to-you-on-the-subway-we-asked.html">Who’s Sitting Next to You on the Subway? An R Train in September</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15624403">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/">How to Build Your Own Blockchain Part 3 – Writing Nodes That Mine and Talk</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15625325">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.eff.org/deeplinks/2017/11/internet-association-endorses-internet-censorship-bill">Internet Association Endorses Internet Censorship Bill</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15626719">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/">Alpha Go Zero: How and Why It Works</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15627340">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://support.apple.com/en-ca/ht208240">If you type the letter “i” and it autocorrects to an “A” with a symbol</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15627646">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.cbc.ca/cbcdocspov/m/features/the-hogan-twins-share-a-brain-and-see-out-of-each-others-eyes">Craniopagus Twins Share a Brain and See Out of Each Others Eyes</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15628839">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.math.tamu.edu/~cyan/Rota/mitless.html">Lessons of an MIT Education</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15628869">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://aws.amazon.com/earth/">Earth on AWS – Open geospatial data</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15629308">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.icij.org/investigations/paradise-papers/">Paradise Papers: New leak from offshore finance firm</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15630646">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.nytimes.com/2017/11/05/world/yuri-milner-facebook-twitter-russia.html">Kremlin Cash Behind Yuri Milner’s Twitter and Facebook Investments</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15631084">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-04</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-04.html</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 04, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://qz.com/1117836/bitcoin-mining-heats-homes-for-free-in-siberia/">Bitcoin mining heats homes for free in Siberia [video]</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15620010">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://arstechnica.com/tech-policy/2017/11/comcast-has-a-lot-to-lose-if-municipal-broadband-takes-off/">Comcast has a lot to lose if municipal broadband takes off</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15620233">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.audacityteam.org/audacity-2-2-0-released/">Audacity 2.2.0 Released</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15621681">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://neugram.io/blog/neugram-briefly">Neugram – Scripting in Go</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15622894">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://github.com/jhund/filterrific/issues/147#issuecomment-341867147">Sometimes all a maintainer needs is a “thank you”</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15623604">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://serverjs.io/">Show HN: Server.js – A modern Express alternative</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15624206">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://github.com/tidwall/evio">Evio – Fast event-loop networking for Go</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15624432">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.trustpilot.com/reviews/59fdae7d31302a07249dc4fe">Freelancer.com has ruined my life</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15624677">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U">What is backpropagation and what is it actually doing? [video]</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15625330">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://twitter.com/virqdroid/status/926437790140772362">Fake WhatsApp update from “WhatsApp Inc.” with Unicode whitespace: 1M downloads</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15626819">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-03</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-03.html</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 03, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="http://blog.ycombinator.com/how-adversarial-attacks-work/">How Adversarial Attacks Work</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15612634">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.kb.cert.org/vuls/id/446847">Savitech USB audio drivers install a new root CA certificate</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15614016">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://arstechnica.co.uk/information-technology/2017/11/uss-mccain-collision-ultimately-caused-by-ui-confusion/">USS McCain collision ultimately caused by UI confusion</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15614579">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-almost-vanished-from-earth-in-70-000-b-c">Human Beings Almost Vanished from Earth in 70,000 B.C</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15615399">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://betterhumans.coach.me/joseph-campbells-daily-routine-for-the-most-important-period-of-my-scholarship-and-study-68d1c35dd0d5">Joseph Campbell’s daily routine for “the most important period of my study”</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15616775">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/">Why Do We Still Commute?</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15616959">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://lineage.microg.org/">LineageOS for microG – Access Google services without closed software</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15617615">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://shkspr.mobi/blog/2017/11/yes-but-what-does-your-startup-do/">Yes, but what does your startup do?</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15618335">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://rapidcityjournal.com/news/local/communities/belle_fourche/fifty-three-year-old-nuclear-missile-accident-revealed/article_653347a4-04e8-5c29-a778-3a6a6c3cfd84.html#tracking-source=home-latest-1">Fifty-three year old nuclear missile accident revealed</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15620146">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.ifixit.com/Teardown/iPhone%2BX%2BTeardown/98975">iPhone X Teardown</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15621494">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-02</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-02.html</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 02, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-10.html#e2017-10-31T15_44_15.htm">Chuck Moore, Extreme Programmer</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15599820">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html">A Minimalist Guide to SQLite</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15605669">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://sqlite.org/affcase1.html">What If OpenDocument Used SQLite?</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15607316">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://assets.bitbashing.io/papers/lockless.pdf">What every systems programmer should know about lockless concurrency [pdf]</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15607869">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://blog.lizzie.io/linux-containers-in-500-loc.html">Linux containers in 500 lines of code</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15608435">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.bloomberg.com/news/articles/2017-11-02/bitcoin-surges-past-7-000-to-extend-record-rally-this-year">Bitcoin Surges Past $7,000 to Extend Record Rally</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15609264">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/amp">A New Twist on Neural Networks</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15609402">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://lkml.iu.edu/hypermail/linux/kernel/1710.3/02474.html">A regression is the kernel not giving the same result with the same user space</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15609419">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.bbc.co.uk/news/science-environment-41845445">'Big Void' Identified in Khufu's Great Pyramid at Giza</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15609807">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.neustadt.fr/essays/against-a-user-hostile-web/">Against an Increasingly User-Hostile Web</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15611122">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Daily Hacker News for 2017-11-01</title>
+      <link>http://www.daemonology.net/hn-daily/2017-11-01.html</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+<P>The 10 highest-rated articles on
+<a href="http://news.ycombinator.com/">Hacker News</a>
+on November 01, 2017 which have not appeared on any previous
+<a href="http://www.daemonology.net/hn-daily/">Hacker News Daily</a>
+are:</P>
+<ul>
+<li>
+<span class="storylink"><a href="https://news.ycombinator.com/item?id=15594975">Google is shutting down the QPX Express API for airfare data</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15594975">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://signal.org/blog/standalone-signal-desktop/">Standalone Signal Desktop</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15595030">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.airbornos.com/">Show HN: Airborn – Private Google Docs Alternative</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15596304">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://status.slack.com/?20171031">Slack is offline</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15597387">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://blog.wesleyac.com/posts/two-interview-questions">The two questions I ask every interviewer</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15599111">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://github.com/Microsoft/vscode/wiki/Roadmap">VS Code Roadmap 2018</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15599136">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="http://www.myfonts.com/WhatTheFont/">WhatTheFont – Shazam for Fonts</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15600031">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://www.confluent.io/blog/apache-kafka-goes-1-0/">Apache Kafka Goes 1.0</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15601222">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://news.ycombinator.com/item?id=15601729">Ask HN: Who is hiring? (November 2017)</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15601729">(comments)</a></span>
+</li>
+<li>
+<span class="storylink"><a href="https://news.ycombinator.com/item?id=15602538">Ask HN: Where can I find high-end stock images for a website?</a></span><br>
+<span class="postlink"><a href="http://news.ycombinator.com/item?id=15602538">(comments)</a></span>
+</li>
+</ul>
+]]></description>
+    </item>
+  </channel>
+</rss>
