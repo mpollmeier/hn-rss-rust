@@ -24,8 +24,20 @@ fn main() {
     // let mut writer = writer::EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
     let descriptions = extract_description_cdatas(parser);
-
     println!("{}", descriptions.len());
+    let articles: Vec<Article> = descriptions.into_iter().flat_map(parse_description_cdata).collect();
+    println!("{}", articles.len());
+}
+
+fn parse_description_cdata(cdata: String) -> Vec<Article> {
+    let mut articles: Vec<Article> = Vec::new();
+    articles.push(
+        Article {
+            title: String::from("test-title"),
+            link: String::from("test-link")
+        }
+    );
+    articles
 }
 
 fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> Vec<String> {
