@@ -24,58 +24,45 @@ fn main() {
     // let mut writer = writer::EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
     let descriptions = extract_description_cdatas(parser);
-    // println!("desc.len: {}", descriptions.len());
     let articles: Vec<Article> = descriptions.into_iter().flat_map(parse_description_cdata).collect();
-    // println!("art.len: {}", articles.len());
+    for x in &articles {
+        println!("{:?}", x);
+    }
 }
 
 fn parse_description_cdata(cdata: String) -> Vec<Article> {
-    let mut articles: Vec<Article> = Vec::new();
-
     let parser = reader::EventReader::from_str(&cdata);
 
+    let mut articles: Vec<Article> = Vec::new();
     let mut inside_storylink = false;
-    let mut inside_anchor = false;
+    let mut current_story = String::new();
+    let mut current_href = String::new();
     for e in parser {
         match e {
             Ok(reader::XmlEvent::StartElement { name, attributes, .. }) => {
-                inside_anchor = name.local_name == "a";
-
-                // TODO: this doesn't seem to work yet
-                inside_storylink =
-                    attributes.iter().find(|attr| attr.name.local_name == "storylink").is_some();
-
-                // TODO: get href from attributes
+                if attributes.iter().find(|attr| attr.value == "storylink").is_some() {
+                    inside_storylink = true;
+                }
+                if inside_storylink && name.local_name == "a" {
+                    let href = attributes.iter().find(|attr| attr.name.local_name == "href");
+                    if href.is_some() {
+                        current_href = href.unwrap().value.clone();
+                    }
+                }
             }
             Ok(reader::XmlEvent::Characters(chars)) => {
                 if inside_storylink {
-                  println!("<inside storylink>");
-                } else {
-                  println!("<outside storylink>");
+                    current_story = String::from(chars);
                 }
-                if inside_anchor {
-                  println!("<inside a>");
-                } else {
-                  println!("<outside a>");
-                }
-                println!("{}", chars);
-                if inside_anchor {
-                  println!("</inside a>");
-                } else {
-                  println!("</outside a>");
-                }
-                if inside_storylink {
-                  println!("</inside storylink>");
-                } else {
-                  println!("</outside storylink>");
-                }
-                // TODO: get title from anchor body
             }
             Ok(reader::XmlEvent::EndElement { name }) => {
-                if name.local_name == "a" {
-                    inside_anchor = false;
-                }
-                if name.local_name == "span" {
+                if name.local_name == "span" && inside_storylink {
+                    articles.push(
+                        Article {
+                            title: current_story.clone(),
+                            link: current_href.clone()
+                        }
+                    );
                     inside_storylink = false;
                 }
             }
@@ -83,12 +70,6 @@ fn parse_description_cdata(cdata: String) -> Vec<Article> {
         }
     }
 
-    // articles.push(
-    //     Article {
-    //         title: String::from("test-title"),
-    //         link: String::from("test-link")
-    //     }
-    // );
     articles
 }
 
@@ -109,10 +90,10 @@ fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> V
     contents
 }
 
-// TODO: construct Vec<Article> from description cdata
+#[derive(Debug)]
 struct Article { 
-    // title: String,
-    // link: String
+    title: String,
+    link: String
 }
 
 // fn indent(size: usize) -> String {
