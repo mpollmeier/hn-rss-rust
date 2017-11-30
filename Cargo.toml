@@ -6,3 +6,4 @@ authors = ["Michael Pollmeier <michael@michaelpollmeier.com>"]
 [dependencies]
 hyper = "0.10"
 xml-rs = "0.7"
+select = "0.4.2"
