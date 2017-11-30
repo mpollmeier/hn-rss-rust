@@ -27,8 +27,6 @@ fn main() {
     // let mut outfile = File::create("output.xml").unwrap();
     // let mut writer = writer::EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
-    // let descriptions: Vec<String> = extract_description_cdatas(parser);
-    // let descriptions = descriptions.into_iter().map(|desc|Document::from(&desc[..]));
     let articles: Vec<Article> = extract_description_cdatas(parser)
         .into_iter()
         .map(|desc|Document::from(&desc[..]))
@@ -56,57 +54,6 @@ fn parse_description_document(document: Document) -> Vec<Article> {
     articles
 }
 
-// fn parse_description_cdata2(cdata: String) -> Vec<Article> {
-//     // println!("X {}", cdata);
-//     let parser = reader::EventReader::from_str(&cdata);
-
-//     let mut articles: Vec<Article> = Vec::new();
-//     let mut inside_storylink = false;
-//     let mut current_story = String::new();
-//     let mut current_href = String::new();
-//     for e in parser {
-//         match e {
-//             Ok(reader::XmlEvent::StartElement { name, attributes, .. }) => {
-//                 let href = attributes.iter().find(|attr| attr.name.local_name == "href");
-//                 if href.is_some() {
-//                     // println!("{}", href.unwrap());
-//                 }
-//                 if attributes.iter().find(|attr| attr.value == "storylink").is_some() {
-//                     inside_storylink = true;
-//                 }
-//                 if inside_storylink && name.local_name == "a" {
-//                     let href = attributes.iter().find(|attr| attr.name.local_name == "href");
-//                     if href.is_some() {
-//                         current_href = href.unwrap().value.clone();
-//                     }
-//                 }
-//             }
-//             Ok(reader::XmlEvent::Characters(chars)) => {
-//                 if inside_storylink {
-//                     current_story = String::from(chars);
-//                 }
-//             }
-//             Ok(reader::XmlEvent::EndElement { name }) => {
-//                 if name.local_name == "span" && inside_storylink {
-//                     articles.push(
-//                         Article {
-//                             title: current_story.clone(),
-//                             link: current_href.clone()
-//                         }
-//                     );
-//                     inside_storylink = false;
-//                 }
-//             }
-//             Err(e) => {
-//                 println!("err: {}", e);
-//             }
-//             _ => {}
-//         }
-//     }
-
-//     articles
-// }
-
 fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> Vec<String> {
     let mut contents: Vec<String> = Vec::new();
     for e in parser {
@@ -130,12 +77,6 @@ struct Article {
     link: String
 }
 
-// fn indent(size: usize) -> String {
-//     const INDENT: &'static str = "    ";
-//     (0..size).map(|_| INDENT)
-//              .fold(String::with_capacity(size*INDENT.len()), |r, s| r + s)
-// }
-
 // fn get() -> Result<String, hyper::Error> {
 //     let client = Client::new();
 //     let mut res = client.get("http://www.daemonology.net/hn-daily/index.rss").send().unwrap();
@@ -145,13 +86,4 @@ struct Article {
 //     res.read_to_string(&mut body)
 //         .expect("failed to parse body");
 //     Ok(body)
-// }
-
-
-// TODO remove
-// use std::fs::File;
-// fn read_file(path: &str) -> Result<String, io::Error> {
-//     let mut s = String::new();
-//     File::open(path)?.read_to_string(&mut s);  // `s` contains the contents of "foo.txt"
-//     Ok(s)
 // }
