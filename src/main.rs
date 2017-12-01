@@ -8,7 +8,7 @@ extern crate select;
 // use hyper::client::Response;
 
 use std::fs::File;
-use std::io::BufReader;
+use std::io::{BufReader, Write, BufWriter};
 use xml::reader;
 // use xml::writer;
 
@@ -34,14 +34,28 @@ fn main() {
         .map(to_rss_item)
         .collect();
     
+    let outfile = File::create("hn-scraper-scraper.xml").expect("Unable to create file");
+    let mut outfile = BufWriter::new(outfile);
+
+    let rss_start =
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\
+         <rss version=\"2.0\">
+           <channel>
+             <title>Hacker News Scraper Scraper</title>
+             <link>http://www.daemonology.net/hn-daily/</link>\n";
+    outfile.write_all(rss_start.as_bytes()).expect("Unable to write data");
+
     for article in &articles {
-        println!("{}", article);
+        outfile.write_all(article.as_bytes()).expect("Unable to write data");
     }
+
+    let rss_end = "</channel></rss>";
+    outfile.write_all(rss_end.as_bytes()).expect("Unable to write data");
 }
 
 // TODO: create document, not string
 fn to_rss_item(article: Article) -> String {
-    format!("<item><title>{}</title><link>{}</link><guid>{}</guid></item>", article.title, article.link, article.link)
+    format!("<item><title>{}</title><link>{}</link><guid>{}</guid></item>\n", article.title, article.link, article.link)
 }
 
 fn parse_description_document(document: Document) -> Vec<Article> {
