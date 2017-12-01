@@ -27,21 +27,25 @@ fn main() {
     // let mut outfile = File::create("output.xml").unwrap();
     // let mut writer = writer::EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
-    let articles: Vec<Article> = extract_description_cdatas(parser)
+    let articles: Vec<String> = extract_description_cdatas(parser)
         .into_iter()
         .map(|desc|Document::from(&desc[..]))
         .flat_map(parse_description_document)
+        .map(to_rss_item)
         .collect();
     
-    for x in &articles {
-        println!("{:?}", x);
+    for article in &articles {
+        println!("{}", article);
     }
+}
 
+// TODO: create document, not string
+fn to_rss_item(article: Article) -> String {
+    format!("<item><title>{}</title><link>{}</link><guid>{}</guid></item>", article.title, article.link, article.link)
 }
 
 fn parse_description_document(document: Document) -> Vec<Article> {
     let mut articles: Vec<Article> = Vec::new();
-
     for node in document.find(Class("storylink").descendant(Name("a"))) {
         articles.push(
             Article {
@@ -50,7 +54,6 @@ fn parse_description_document(document: Document) -> Vec<Article> {
             }
         );
     }
-
     articles
 }
 
