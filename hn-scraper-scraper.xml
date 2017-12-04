@@ -1,105 +1,506 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-           <channel>
-             <title>Hacker News Scraper Scraper</title>
-<item><title>Judge Tells Uber Lawyer: ‘It Looks Like You Covered This Up’</title><link>https://www.nytimes.com/2017/11/29/business/waymo-uber-trial.html</link><guid>https://www.nytimes.com/2017/11/29/business/waymo-uber-trial.html</guid></item>
-<item><title>YouTube monetization analysis</title><link>https://docs.google.com/document/d/155yNpfR7dGKuN-4rbrvbJLcJkhGa_HqvVuyPK7UEfPo/edit</link><guid>https://docs.google.com/document/d/155yNpfR7dGKuN-4rbrvbJLcJkhGa_HqvVuyPK7UEfPo/edit</guid></item>
-<item><title>Write your next Ethereum contract in Pyramid Scheme</title><link>http://www.michaelburge.us/2017/11/28/write-your-next-ethereum-contract-in-pyramid-scheme.html</link><guid>http://www.michaelburge.us/2017/11/28/write-your-next-ethereum-contract-in-pyramid-scheme.html</guid></item>
-<item><title>Writing a Simple Linux Kernel Module</title><link>https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234</link><guid>https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234</guid></item>
-<item><title>Board games are back, thanks to lessons designers learned from computer games</title><link>https://www.1843magazine.com/features/tabletop-generals</link><guid>https://www.1843magazine.com/features/tabletop-generals</guid></item>
-<item><title>Deep image prior 'learns' on just one image</title><link>https://dmitryulyanov.github.io/deep_image_prior</link><guid>https://dmitryulyanov.github.io/deep_image_prior</guid></item>
-<item><title>A Map Showing How Much Time It Takes English-Speakers to Learn Foreign Languages</title><link>http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html</link><guid>http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html</guid></item>
-<item><title>iOS 11 Horror Story: The Rise and Fall of iOS Security</title><link>https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/</link><guid>https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/</guid></item>
-<item><title>Ask HN: Who is hiring? (December 2017)</title><link>https://news.ycombinator.com/item?id=15824597</link><guid>https://news.ycombinator.com/item?id=15824597</guid></item>
-<item><title>Things Many People Find Too Obvious to Have Told You Already</title><link>https://threadreaderapp.com/thread/936615043126370306</link><guid>https://threadreaderapp.com/thread/936615043126370306</guid></item>
-<item><title>Facebook’s New Captcha Test: 'Upload a Clear Photo of Your Face'</title><link>https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/</link><guid>https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/</guid></item>
-<item><title>Nasdaq Plans to Introduce Bitcoin Futures</title><link>https://www.bloomberg.com/news/articles/2017-11-29/nasdaq-is-said-to-plan-bitcoin-futures-joining-biggest-rivals</link><guid>https://www.bloomberg.com/news/articles/2017-11-29/nasdaq-is-said-to-plan-bitcoin-futures-joining-biggest-rivals</guid></item>
-<item><title>Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Data</title><link>https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/</link><guid>https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/</guid></item>
-<item><title>Silicon Valley Software Engineer Salaries by Experience Level</title><link>https://triplebyte.com/software-engineer-salary</link><guid>https://triplebyte.com/software-engineer-salary</guid></item>
-<item><title>American Airlines Accidentally Let Too Many Pilots Take the Holidays Off</title><link>https://www.npr.org/sections/thetwo-way/2017/11/29/567286235/oops-american-airlines-accidentally-let-too-many-pilots-take-off-the-holidays</link><guid>https://www.npr.org/sections/thetwo-way/2017/11/29/567286235/oops-american-airlines-accidentally-let-too-many-pilots-take-off-the-holidays</guid></item>
-<item><title>As a solo developer, I decided to offer phone support</title><link>http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/</link><guid>http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/</guid></item>
-<item><title>Why Did ProtonMail Vanish from Google Search Results? (2016)</title><link>https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/</link><guid>https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/</guid></item>
-<item><title>Joplin – A note-taking and to-do app with builds for desktop, mobile, terminal</title><link>https://github.com/laurent22/joplin/</link><guid>https://github.com/laurent22/joplin/</guid></item>
-<item><title>Coinbase Ordered to Turn Over Identities of 14,355 Crypto Traders to the IRS</title><link>https://motherboard.vice.com/en_us/article/ywnmkk/coinbase-irs-14000-bitcoin-tax</link><guid>https://motherboard.vice.com/en_us/article/ywnmkk/coinbase-irs-14000-bitcoin-tax</guid></item>
-<item><title>System76 to disable the Intel Management Engine on its laptops</title><link>http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan</link><guid>http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan</guid></item>
-<item><title>Understanding Ethereum Smart Contracts</title><link>http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/</link><guid>http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/</guid></item>
-<item><title>Lessons we learned while bootstrapping</title><link>https://kinsta.com/blog/bootstrapping-startup/</link><guid>https://kinsta.com/blog/bootstrapping-startup/</guid></item>
-<item><title>Parents now spend twice as much time with their children as 50 years ago</title><link>https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-20</link><guid>https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-20</guid></item>
-<item><title>Western Digital Plans to Ship More Than One Billion RISC-V Cores a Year</title><link>https://www.wdc.com/about-wd/newsroom/press-room/2017-11-28-western-digital-to-accelerate-the-future-of-next-generation-computing-architectures-for-big-data-and-fast-data-environments.html</link><guid>https://www.wdc.com/about-wd/newsroom/press-room/2017-11-28-western-digital-to-accelerate-the-future-of-next-generation-computing-architectures-for-big-data-and-fast-data-environments.html</guid></item>
-<item><title>AWS AppSync – Build data-driven apps with real-time and off-line capabilities</title><link>https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/</link><guid>https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/</guid></item>
-<item><title>EC2 Bare Metal Instances with Direct Access to Hardware</title><link>https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/</link><guid>https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/</guid></item>
-<item><title>Hello, world: this is WikiTribune</title><link>https://www.wikitribune.com/story/2017/10/30/media/hello-world/13988/</link><guid>https://www.wikitribune.com/story/2017/10/30/media/hello-world/13988/</guid></item>
-<item><title>About the security content of Security Update 2017-001</title><link>https://support.apple.com/en-us/HT208315</link><guid>https://support.apple.com/en-us/HT208315</guid></item>
-<item><title>Amazon EKS – Highly available and scalable Kubernetes service</title><link>https://aws.amazon.com/eks/</link><guid>https://aws.amazon.com/eks/</guid></item>
-<item><title>AWS Fargate – Run Containers Without Managing Infrastructure</title><link>https://aws.amazon.com/blogs/aws/aws-fargate/</link><guid>https://aws.amazon.com/blogs/aws/aws-fargate/</guid></item>
-<item><title>Netflix Stole My VHS Cassette Photos for Its Stranger Things Boxed Set</title><link>https://petapixel.com/2017/11/27/netflix-stole-vhs-cassette-photos-stranger-things-boxed-set/</link><guid>https://petapixel.com/2017/11/27/netflix-stole-vhs-cassette-photos-stranger-things-boxed-set/</guid></item>
-<item><title>Infinitown – A WebGL Experiment</title><link>http://demos.littleworkshop.fr/infinitown</link><guid>http://demos.littleworkshop.fr/infinitown</guid></item>
-<item><title>DRM’s Dead Canary: How We Lost the Web, What We Learned, and What to Do Next</title><link>https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next</link><guid>https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next</guid></item>
-<item><title>Show HN: Golang DNS server, including DNSSEC and DNS-over-TLS</title><link>https://github.com/tenta-browser/tenta-dns</link><guid>https://github.com/tenta-browser/tenta-dns</guid></item>
-<item><title>The Poor Man's 3D Camera</title><link>http://etodd.io/2017/11/28/poor-mans-3d-camera/</link><guid>http://etodd.io/2017/11/28/poor-mans-3d-camera/</guid></item>
-<item><title>HP installs system-slowing spyware on its PCs</title><link>https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/</link><guid>https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/</guid></item>
-<item><title>U.S. judge says Uber withheld evidence, delays Waymo trial</title><link>https://www.reuters.com/article/us-alphabet-uber-ruling/u-s-judge-says-uber-withheld-evidence-delays-waymo-trial-idUSKBN1DS26X</link><guid>https://www.reuters.com/article/us-alphabet-uber-ruling/u-s-judge-says-uber-withheld-evidence-delays-waymo-trial-idUSKBN1DS26X</guid></item>
-<item><title>How Stylo Brought Rust and Servo to Firefox</title><link>http://bholley.net/blog/2017/stylo.html</link><guid>http://bholley.net/blog/2017/stylo.html</guid></item>
-<item><title>macOS High Sierra: Anyone can login as “root” with empty password</title><link>https://twitter.com/lemiorhan/status/935578694541770752</link><guid>https://twitter.com/lemiorhan/status/935578694541770752</guid></item>
-<item><title>Astonishing OS X bug lets anyone log into a High Sierra machine</title><link>https://techcrunch.com/2017/11/28/astonishing-os-x-bug-lets-anyone-log-into-a-high-sierra-machine/</link><guid>https://techcrunch.com/2017/11/28/astonishing-os-x-bug-lets-anyone-log-into-a-high-sierra-machine/</guid></item>
-<item><title>Facebook Is the Junk Food of Socializing (2015)</title><link>http://nautil.us/blog/why-facebook-is-the-junk-food-of-socializing</link><guid>http://nautil.us/blog/why-facebook-is-the-junk-food-of-socializing</guid></item>
-<item><title>A Year in Computer Vision</title><link>http://www.themtank.org/a-year-in-computer-vision</link><guid>http://www.themtank.org/a-year-in-computer-vision</guid></item>
-<item><title>Stanford CS007: Personal Finance For Engineers</title><link>https://cs007.blog/</link><guid>https://cs007.blog/</guid></item>
-<item><title>Laptops Are Great, But Not During a Lecture or a Meeting</title><link>https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html</link><guid>https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html</guid></item>
-<item><title>Asking members to support journalism, The Guardian raises more revenue than ads</title><link>http://www.niemanlab.org/2017/11/asking-members-to-support-its-journalism-no-prizes-no-swag-the-guardian-raises-more-reader-revenue-than-ad-dollars/</link><guid>http://www.niemanlab.org/2017/11/asking-members-to-support-its-journalism-no-prizes-no-swag-the-guardian-raises-more-reader-revenue-than-ad-dollars/</guid></item>
-<item><title>Norvig's Python programs to practice or demonstrate skills</title><link>https://github.com/norvig/pytudes</link><guid>https://github.com/norvig/pytudes</guid></item>
-<item><title>American Equity</title><link>http://blog.samaltman.com/american-equity</link><guid>http://blog.samaltman.com/american-equity</guid></item>
-<item><title>Facebook users in Romania see content related to street protests reviewed</title><link>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</link><guid>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</guid></item>
-<item><title>Romanian Facebook users see their protests-related content reviewed and blocked</title><link>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</link><guid>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</guid></item>
-<item><title>Woman offers WaPo false tale about Roy Moore in effort to discredit the paper</title><link>https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html?tidr=a_breakingnews&hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar</link><guid>https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html?tidr=a_breakingnews&hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar</guid></item>
-<item><title>A minimalist guide to tmux</title><link>https://medium.com/@peterxjang/a-minimalist-guide-to-tmux-13675fb160fa</link><guid>https://medium.com/@peterxjang/a-minimalist-guide-to-tmux-13675fb160fa</guid></item>
-<item><title>Half-Life and Team Fortress Networking</title><link>https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1</link><guid>https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1</guid></item>
-<item><title>Carp, a compiled Lisp with type inference and a borrow checker</title><link>http://blog.veitheller.de/Carp.html</link><guid>http://blog.veitheller.de/Carp.html</guid></item>
-<item><title>VNC, RDP and SSH Over HTML5</title><link>https://guacamole.apache.org/</link><guid>https://guacamole.apache.org/</guid></item>
-<item><title>Apple’s Secure Enclave Processor (SEP) Firmware Decrypted</title><link>https://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/</link><guid>https://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/</guid></item>
-<item><title>Simplified and community-driven man pages</title><link>http://tldr.sh</link><guid>http://tldr.sh</guid></item>
-<item><title>Members of congress who voted to reverse FCC web browsing privacy rule</title><link>https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale</link><guid>https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale</guid></item>
-<item><title>Super Tiny Website Logos in SVG</title><link>https://shkspr.mobi/blog/2017/11/super-tiny-website-logos-in-svg/</link><guid>https://shkspr.mobi/blog/2017/11/super-tiny-website-logos-in-svg/</guid></item>
-<item><title>Rust: Enable WebAssembly backend by default</title><link>https://www.hellorust.com/news/native-wasm-target.html</link><guid>https://www.hellorust.com/news/native-wasm-target.html</guid></item>
-<item><title>Lisp in fewer than 200 lines of C</title><link>https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html</link><guid>https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html</guid></item>
-<item><title>Clojure Design Patterns</title><link>http://mishadoff.com/blog/clojure-design-patterns/</link><guid>http://mishadoff.com/blog/clojure-design-patterns/</guid></item>
-<item><title>Free online courses from top universities</title><link>http://www.openculture.com/freeonlinecourses</link><guid>http://www.openculture.com/freeonlinecourses</guid></item>
-<item><title>Sending a Spacecraft to the Interstellar Asteroid</title><link>https://arxiv.org/abs/1711.03155</link><guid>https://arxiv.org/abs/1711.03155</guid></item>
-<item><title>SSH vs. OpenVPN for Tunneling</title><link>http://blog.backslasher.net/ssh-openvpn-tunneling.html</link><guid>http://blog.backslasher.net/ssh-openvpn-tunneling.html</guid></item>
-<item><title>More Than a Million Pro-Repeal Net Neutrality Comments Were Likely Faked</title><link>https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6</link><guid>https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6</guid></item>
-<item><title>Linked List Problems (2002) [pdf]</title><link>http://cslibrary.stanford.edu/105/LinkedListProblems.pdf</link><guid>http://cslibrary.stanford.edu/105/LinkedListProblems.pdf</guid></item>
-<item><title>Ask HN: CS papers for software architecture and design?</title><link>https://news.ycombinator.com/item?id=15775548</link><guid>https://news.ycombinator.com/item?id=15775548</guid></item>
-<item><title>My unusual hobby</title><link>https://www.stephanboyer.com/post/134/my-unusual-hobby</link><guid>https://www.stephanboyer.com/post/134/my-unusual-hobby</guid></item>
-<item><title>Call for the Resignation of FCC Chairman Ajit Varadaraj Pai</title><link>https://petitions.whitehouse.gov/petition/we-people-call-resignation-fcc-chairman-ajit-varadaraj-pai</link><guid>https://petitions.whitehouse.gov/petition/we-people-call-resignation-fcc-chairman-ajit-varadaraj-pai</guid></item>
-<item><title>Ciao, Chrome: Firefox Quantum Is the Browser Built for 2017</title><link>https://www.wired.com/story/firefox-quantum-the-browser-built-for-2017/</link><guid>https://www.wired.com/story/firefox-quantum-the-browser-built-for-2017/</guid></item>
-<item><title>Show HN: Nebula – Alarm clock where you grow stars while you sleep</title><link>https://alextumanov.com/</link><guid>https://alextumanov.com/</guid></item>
-<item><title>Dither stabilisation</title><link>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</link><guid>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</guid></item>
-<item><title>Glowstone: open-source Minecraft server</title><link>https://glowstone.net</link><guid>https://glowstone.net</guid></item>
-<item><title>The sequence 1 1 ∞ 5 6 3 3 3</title><link>https://ipfs.io/ipfs/QmfN5DojVnEsf1Une3DFwfUiFpfWnQf31f61qgybiXVeQE/blog/spheres-and-points/</link><guid>https://ipfs.io/ipfs/QmfN5DojVnEsf1Une3DFwfUiFpfWnQf31f61qgybiXVeQE/blog/spheres-and-points/</guid></item>
-<item><title>How do I permanently delete my account?</title><link>https://www.facebook.com/help/224562897555674/</link><guid>https://www.facebook.com/help/224562897555674/</guid></item>
-<item><title>The Western Elite from a Chinese Perspective</title><link>https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/</link><guid>https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/</guid></item>
-<item><title>The Girl with the Brick Earring</title><link>http://lucaswoltmann.de/art%27n%27images/2017/04/08/the-girl-with-the-brick-earring.html</link><guid>http://lucaswoltmann.de/art%27n%27images/2017/04/08/the-girl-with-the-brick-earring.html</guid></item>
-<item><title>A growing number of young Americans are leaving desk jobs to farm</title><link>https://www.washingtonpost.com/business/economy/a-growing-number-of-young-americans-are-leaving-desk-jobs-to-farm/2017/11/23/e3c018ae-c64e-11e7-afe9-4f60b5a6c4a0_story.html</link><guid>https://www.washingtonpost.com/business/economy/a-growing-number-of-young-americans-are-leaving-desk-jobs-to-farm/2017/11/23/e3c018ae-c64e-11e7-afe9-4f60b5a6c4a0_story.html</guid></item>
-<item><title>I fell down a bit of a ruins research rabbithole today</title><link>https://twitter.com/paulmmcooper/status/933753595174031361</link><guid>https://twitter.com/paulmmcooper/status/933753595174031361</guid></item>
-<item><title>Terrain rendering in fewer than 20 lines of code</title><link>https://github.com/s-macke/VoxelSpace</link><guid>https://github.com/s-macke/VoxelSpace</guid></item>
-<item><title>The Problem of Doctors’ Salaries</title><link>https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557</link><guid>https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557</guid></item>
-<item><title>Show HN: LogoFox – fast logo maker</title><link>https://logofox.co/form/name?utm_source=hackernews</link><guid>https://logofox.co/form/name?utm_source=hackernews</guid></item>
-<item><title>Cortana is really bad</title><link>https://medium.com/@johndavidback/cortana-is-really-really-bad-6ca96733ef4d</link><guid>https://medium.com/@johndavidback/cortana-is-really-really-bad-6ca96733ef4d</guid></item>
-<item><title>Bitcoin Mining Now Consuming More Electricity Than Many Countries</title><link>https://powercompare.co.uk/bitcoin/</link><guid>https://powercompare.co.uk/bitcoin/</guid></item>
-<item><title>Sugar industry withheld possible evidence of cancer link 50 years ago</title><link>https://www.pbs.org/newshour/science/sugar-industry-withheld-possible-evidence-of-cancer-link-50-years-ago-researchers-say</link><guid>https://www.pbs.org/newshour/science/sugar-industry-withheld-possible-evidence-of-cancer-link-50-years-ago-researchers-say</guid></item>
-<item><title>Show HN: Gophercises – Coding Exercises for Budding Gophers</title><link>https://gophercises.com/</link><guid>https://gophercises.com/</guid></item>
-<item><title>I'm on the FCC. Please stop us from killing net neutrality</title><link>http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html</link><guid>http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html</guid></item>
-<item><title>“I thought I could ship at least 700 units to stay in business”</title><link>https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php</link><guid>https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php</guid></item>
-<item><title>Workers at Amazon's main Italian hub, German warehouses strike on Black Friday</title><link>https://www.reuters.com/article/us-amazon-italy-strike/workers-at-amazons-main-italian-site-to-hold-first-strike-on-black-friday-idUSKBN1DN1DS</link><guid>https://www.reuters.com/article/us-amazon-italy-strike/workers-at-amazons-main-italian-site-to-hold-first-strike-on-black-friday-idUSKBN1DN1DS</guid></item>
-<item><title>Why we never thank open source maintainers</title><link>https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/</link><guid>https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/</guid></item>
-<item><title>HQ CEO: If You Run This Profile, We’ll Fire Our Host</title><link>https://www.thedailybeast.com/ceo-of-hq-the-hottest-app-going-if-you-run-this-profile-well-fire-our-host</link><guid>https://www.thedailybeast.com/ceo-of-hq-the-hottest-app-going-if-you-run-this-profile-well-fire-our-host</guid></item>
-<item><title>A Man Who Has Lived Alone on an Island for 28 Years</title><link>https://www.nationalgeographic.com/travel/destinations/europe/italy/photos-of-life-alone-on-a-paradise-island/</link><guid>https://www.nationalgeographic.com/travel/destinations/europe/italy/photos-of-life-alone-on-a-paradise-island/</guid></item>
-<item><title>I'm Testifying to Congress about Data Breaches – What Should I Say?</title><link>https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/</link><guid>https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/</guid></item>
-<item><title>Ketamine lifts rodents' mood only if administered by male researchers</title><link>http://www.nature.com/news/sex-matters-in-experiments-on-party-drug-in-mice-1.23022</link><guid>http://www.nature.com/news/sex-matters-in-experiments-on-party-drug-in-mice-1.23022</guid></item>
-<item><title>Warning Signs About Another Giant Bitcoin Exchange</title><link>https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html</link><guid>https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html</guid></item>
-<item><title>A CEO's Guide to Emacs (2015)</title><link>https://blog.fugue.co/2015-11-11-guide-to-emacs.html</link><guid>https://blog.fugue.co/2015-11-11-guide-to-emacs.html</guid></item>
-<item><title>Join the Battle for Net Neutrality</title><link>https://www.battleforthenet.com/</link><guid>https://www.battleforthenet.com/</guid></item>
-<item><title>Linus Torvalds: “Do No Harm”</title><link>https://lkml.org/lkml/2017/11/21/356</link><guid>https://lkml.org/lkml/2017/11/21/356</guid></item>
-<item><title>Stop Using Excel, Finance Chiefs Tell Staffs</title><link>https://www.wsj.com/articles/stop-using-excel-finance-chiefs-tell-staffs-1511346601</link><guid>https://www.wsj.com/articles/stop-using-excel-finance-chiefs-tell-staffs-1511346601</guid></item>
-<item><title>An Open Letter to the FCC</title><link>https://medium.com/@AGSchneiderman/an-open-letter-to-the-fcc-b867a763850a</link><guid>https://medium.com/@AGSchneiderman/an-open-letter-to-the-fcc-b867a763850a</guid></item>
-</channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+  <channel>
+    <title>Hacker News Scraper Scraper</title>
+    <item>
+      <title>Judge Tells Uber Lawyer: ‘It Looks Like You Covered This Up’</title>
+      <link>https://www.nytimes.com/2017/11/29/business/waymo-uber-trial.html</link>
+      <guid>https://www.nytimes.com/2017/11/29/business/waymo-uber-trial.html</guid>
+    </item>
+    <item>
+      <title>YouTube monetization analysis</title>
+      <link>https://docs.google.com/document/d/155yNpfR7dGKuN-4rbrvbJLcJkhGa_HqvVuyPK7UEfPo/edit</link>
+      <guid>https://docs.google.com/document/d/155yNpfR7dGKuN-4rbrvbJLcJkhGa_HqvVuyPK7UEfPo/edit</guid>
+    </item>
+    <item>
+      <title>Write your next Ethereum contract in Pyramid Scheme</title>
+      <link>http://www.michaelburge.us/2017/11/28/write-your-next-ethereum-contract-in-pyramid-scheme.html</link>
+      <guid>http://www.michaelburge.us/2017/11/28/write-your-next-ethereum-contract-in-pyramid-scheme.html</guid>
+    </item>
+    <item>
+      <title>Writing a Simple Linux Kernel Module</title>
+      <link>https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234</link>
+      <guid>https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234</guid>
+    </item>
+    <item>
+      <title>Board games are back, thanks to lessons designers learned from computer games</title>
+      <link>https://www.1843magazine.com/features/tabletop-generals</link>
+      <guid>https://www.1843magazine.com/features/tabletop-generals</guid>
+    </item>
+    <item>
+      <title>Deep image prior 'learns' on just one image</title>
+      <link>https://dmitryulyanov.github.io/deep_image_prior</link>
+      <guid>https://dmitryulyanov.github.io/deep_image_prior</guid>
+    </item>
+    <item>
+      <title>A Map Showing How Much Time It Takes English-Speakers to Learn Foreign Languages</title>
+      <link>http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html</link>
+      <guid>http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html</guid>
+    </item>
+    <item>
+      <title>iOS 11 Horror Story: The Rise and Fall of iOS Security</title>
+      <link>https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/</link>
+      <guid>https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/</guid>
+    </item>
+    <item>
+      <title>Ask HN: Who is hiring? (December 2017)</title>
+      <link>https://news.ycombinator.com/item?id=15824597</link>
+      <guid>https://news.ycombinator.com/item?id=15824597</guid>
+    </item>
+    <item>
+      <title>Things Many People Find Too Obvious to Have Told You Already</title>
+      <link>https://threadreaderapp.com/thread/936615043126370306</link>
+      <guid>https://threadreaderapp.com/thread/936615043126370306</guid>
+    </item>
+    <item>
+      <title>Facebook’s New Captcha Test: 'Upload a Clear Photo of Your Face'</title>
+      <link>https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/</link>
+      <guid>https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/</guid>
+    </item>
+    <item>
+      <title>Nasdaq Plans to Introduce Bitcoin Futures</title>
+      <link>https://www.bloomberg.com/news/articles/2017-11-29/nasdaq-is-said-to-plan-bitcoin-futures-joining-biggest-rivals</link>
+      <guid>https://www.bloomberg.com/news/articles/2017-11-29/nasdaq-is-said-to-plan-bitcoin-futures-joining-biggest-rivals</guid>
+    </item>
+    <item>
+      <title>Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Data</title>
+      <link>https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/</link>
+      <guid>https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/</guid>
+    </item>
+    <item>
+      <title>Silicon Valley Software Engineer Salaries by Experience Level</title>
+      <link>https://triplebyte.com/software-engineer-salary</link>
+      <guid>https://triplebyte.com/software-engineer-salary</guid>
+    </item>
+    <item>
+      <title>American Airlines Accidentally Let Too Many Pilots Take the Holidays Off</title>
+      <link>https://www.npr.org/sections/thetwo-way/2017/11/29/567286235/oops-american-airlines-accidentally-let-too-many-pilots-take-off-the-holidays</link>
+      <guid>https://www.npr.org/sections/thetwo-way/2017/11/29/567286235/oops-american-airlines-accidentally-let-too-many-pilots-take-off-the-holidays</guid>
+    </item>
+    <item>
+      <title>As a solo developer, I decided to offer phone support</title>
+      <link>http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/</link>
+      <guid>http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/</guid>
+    </item>
+    <item>
+      <title>Why Did ProtonMail Vanish from Google Search Results? (2016)</title>
+      <link>https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/</link>
+      <guid>https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/</guid>
+    </item>
+    <item>
+      <title>Joplin – A note-taking and to-do app with builds for desktop, mobile, terminal</title>
+      <link>https://github.com/laurent22/joplin/</link>
+      <guid>https://github.com/laurent22/joplin/</guid>
+    </item>
+    <item>
+      <title>Coinbase Ordered to Turn Over Identities of 14,355 Crypto Traders to the IRS</title>
+      <link>https://motherboard.vice.com/en_us/article/ywnmkk/coinbase-irs-14000-bitcoin-tax</link>
+      <guid>https://motherboard.vice.com/en_us/article/ywnmkk/coinbase-irs-14000-bitcoin-tax</guid>
+    </item>
+    <item>
+      <title>System76 to disable the Intel Management Engine on its laptops</title>
+      <link>http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan</link>
+      <guid>http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan</guid>
+    </item>
+    <item>
+      <title>Understanding Ethereum Smart Contracts</title>
+      <link>http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/</link>
+      <guid>http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/</guid>
+    </item>
+    <item>
+      <title>Lessons we learned while bootstrapping</title>
+      <link>https://kinsta.com/blog/bootstrapping-startup/</link>
+      <guid>https://kinsta.com/blog/bootstrapping-startup/</guid>
+    </item>
+    <item>
+      <title>Parents now spend twice as much time with their children as 50 years ago</title>
+      <link>https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-20</link>
+      <guid>https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-20</guid>
+    </item>
+    <item>
+      <title>Western Digital Plans to Ship More Than One Billion RISC-V Cores a Year</title>
+      <link>https://www.wdc.com/about-wd/newsroom/press-room/2017-11-28-western-digital-to-accelerate-the-future-of-next-generation-computing-architectures-for-big-data-and-fast-data-environments.html</link>
+      <guid>https://www.wdc.com/about-wd/newsroom/press-room/2017-11-28-western-digital-to-accelerate-the-future-of-next-generation-computing-architectures-for-big-data-and-fast-data-environments.html</guid>
+    </item>
+    <item>
+      <title>AWS AppSync – Build data-driven apps with real-time and off-line capabilities</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/</link>
+      <guid>https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/</guid>
+    </item>
+    <item>
+      <title>EC2 Bare Metal Instances with Direct Access to Hardware</title>
+      <link>https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/</link>
+      <guid>https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/</guid>
+    </item>
+    <item>
+      <title>Hello, world: this is WikiTribune</title>
+      <link>https://www.wikitribune.com/story/2017/10/30/media/hello-world/13988/</link>
+      <guid>https://www.wikitribune.com/story/2017/10/30/media/hello-world/13988/</guid>
+    </item>
+    <item>
+      <title>About the security content of Security Update 2017-001</title>
+      <link>https://support.apple.com/en-us/HT208315</link>
+      <guid>https://support.apple.com/en-us/HT208315</guid>
+    </item>
+    <item>
+      <title>Amazon EKS – Highly available and scalable Kubernetes service</title>
+      <link>https://aws.amazon.com/eks/</link>
+      <guid>https://aws.amazon.com/eks/</guid>
+    </item>
+    <item>
+      <title>AWS Fargate – Run Containers Without Managing Infrastructure</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-fargate/</link>
+      <guid>https://aws.amazon.com/blogs/aws/aws-fargate/</guid>
+    </item>
+    <item>
+      <title>Netflix Stole My VHS Cassette Photos for Its Stranger Things Boxed Set</title>
+      <link>https://petapixel.com/2017/11/27/netflix-stole-vhs-cassette-photos-stranger-things-boxed-set/</link>
+      <guid>https://petapixel.com/2017/11/27/netflix-stole-vhs-cassette-photos-stranger-things-boxed-set/</guid>
+    </item>
+    <item>
+      <title>Infinitown – A WebGL Experiment</title>
+      <link>http://demos.littleworkshop.fr/infinitown</link>
+      <guid>http://demos.littleworkshop.fr/infinitown</guid>
+    </item>
+    <item>
+      <title>DRM’s Dead Canary: How We Lost the Web, What We Learned, and What to Do Next</title>
+      <link>https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next</link>
+      <guid>https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next</guid>
+    </item>
+    <item>
+      <title>Show HN: Golang DNS server, including DNSSEC and DNS-over-TLS</title>
+      <link>https://github.com/tenta-browser/tenta-dns</link>
+      <guid>https://github.com/tenta-browser/tenta-dns</guid>
+    </item>
+    <item>
+      <title>The Poor Man's 3D Camera</title>
+      <link>http://etodd.io/2017/11/28/poor-mans-3d-camera/</link>
+      <guid>http://etodd.io/2017/11/28/poor-mans-3d-camera/</guid>
+    </item>
+    <item>
+      <title>HP installs system-slowing spyware on its PCs</title>
+      <link>https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/</link>
+      <guid>https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/</guid>
+    </item>
+    <item>
+      <title>U.S. judge says Uber withheld evidence, delays Waymo trial</title>
+      <link>https://www.reuters.com/article/us-alphabet-uber-ruling/u-s-judge-says-uber-withheld-evidence-delays-waymo-trial-idUSKBN1DS26X</link>
+      <guid>https://www.reuters.com/article/us-alphabet-uber-ruling/u-s-judge-says-uber-withheld-evidence-delays-waymo-trial-idUSKBN1DS26X</guid>
+    </item>
+    <item>
+      <title>How Stylo Brought Rust and Servo to Firefox</title>
+      <link>http://bholley.net/blog/2017/stylo.html</link>
+      <guid>http://bholley.net/blog/2017/stylo.html</guid>
+    </item>
+    <item>
+      <title>macOS High Sierra: Anyone can login as “root” with empty password</title>
+      <link>https://twitter.com/lemiorhan/status/935578694541770752</link>
+      <guid>https://twitter.com/lemiorhan/status/935578694541770752</guid>
+    </item>
+    <item>
+      <title>Astonishing OS X bug lets anyone log into a High Sierra machine</title>
+      <link>https://techcrunch.com/2017/11/28/astonishing-os-x-bug-lets-anyone-log-into-a-high-sierra-machine/</link>
+      <guid>https://techcrunch.com/2017/11/28/astonishing-os-x-bug-lets-anyone-log-into-a-high-sierra-machine/</guid>
+    </item>
+    <item>
+      <title>Facebook Is the Junk Food of Socializing (2015)</title>
+      <link>http://nautil.us/blog/why-facebook-is-the-junk-food-of-socializing</link>
+      <guid>http://nautil.us/blog/why-facebook-is-the-junk-food-of-socializing</guid>
+    </item>
+    <item>
+      <title>A Year in Computer Vision</title>
+      <link>http://www.themtank.org/a-year-in-computer-vision</link>
+      <guid>http://www.themtank.org/a-year-in-computer-vision</guid>
+    </item>
+    <item>
+      <title>Stanford CS007: Personal Finance For Engineers</title>
+      <link>https://cs007.blog/</link>
+      <guid>https://cs007.blog/</guid>
+    </item>
+    <item>
+      <title>Laptops Are Great, But Not During a Lecture or a Meeting</title>
+      <link>https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html</link>
+      <guid>https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html</guid>
+    </item>
+    <item>
+      <title>Asking members to support journalism, The Guardian raises more revenue than ads</title>
+      <link>http://www.niemanlab.org/2017/11/asking-members-to-support-its-journalism-no-prizes-no-swag-the-guardian-raises-more-reader-revenue-than-ad-dollars/</link>
+      <guid>http://www.niemanlab.org/2017/11/asking-members-to-support-its-journalism-no-prizes-no-swag-the-guardian-raises-more-reader-revenue-than-ad-dollars/</guid>
+    </item>
+    <item>
+      <title>Norvig's Python programs to practice or demonstrate skills</title>
+      <link>https://github.com/norvig/pytudes</link>
+      <guid>https://github.com/norvig/pytudes</guid>
+    </item>
+    <item>
+      <title>American Equity</title>
+      <link>http://blog.samaltman.com/american-equity</link>
+      <guid>http://blog.samaltman.com/american-equity</guid>
+    </item>
+    <item>
+      <title>Facebook users in Romania see content related to street protests reviewed</title>
+      <link>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</link>
+      <guid>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</guid>
+    </item>
+    <item>
+      <title>Romanian Facebook users see their protests-related content reviewed and blocked</title>
+      <link>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</link>
+      <guid>http://www.business-review.eu/news/certain-facebook-users-in-romania-see-content-related-to-street-protests-reviewed-under-community-standards-153255</guid>
+    </item>
+    <item>
+      <title>Woman offers WaPo false tale about Roy Moore in effort to discredit the paper</title>
+      <link>https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html?tidr=a_breakingnews&amp;hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar</link>
+      <guid>https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html?tidr=a_breakingnews&amp;hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar</guid>
+    </item>
+    <item>
+      <title>A minimalist guide to tmux</title>
+      <link>https://medium.com/@peterxjang/a-minimalist-guide-to-tmux-13675fb160fa</link>
+      <guid>https://medium.com/@peterxjang/a-minimalist-guide-to-tmux-13675fb160fa</guid>
+    </item>
+    <item>
+      <title>Half-Life and Team Fortress Networking</title>
+      <link>https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1</link>
+      <guid>https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1</guid>
+    </item>
+    <item>
+      <title>Carp, a compiled Lisp with type inference and a borrow checker</title>
+      <link>http://blog.veitheller.de/Carp.html</link>
+      <guid>http://blog.veitheller.de/Carp.html</guid>
+    </item>
+    <item>
+      <title>VNC, RDP and SSH Over HTML5</title>
+      <link>https://guacamole.apache.org/</link>
+      <guid>https://guacamole.apache.org/</guid>
+    </item>
+    <item>
+      <title>Apple’s Secure Enclave Processor (SEP) Firmware Decrypted</title>
+      <link>https://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/</link>
+      <guid>https://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/</guid>
+    </item>
+    <item>
+      <title>Simplified and community-driven man pages</title>
+      <link>http://tldr.sh</link>
+      <guid>http://tldr.sh</guid>
+    </item>
+    <item>
+      <title>Members of congress who voted to reverse FCC web browsing privacy rule</title>
+      <link>https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale</link>
+      <guid>https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale</guid>
+    </item>
+    <item>
+      <title>Super Tiny Website Logos in SVG</title>
+      <link>https://shkspr.mobi/blog/2017/11/super-tiny-website-logos-in-svg/</link>
+      <guid>https://shkspr.mobi/blog/2017/11/super-tiny-website-logos-in-svg/</guid>
+    </item>
+    <item>
+      <title>Rust: Enable WebAssembly backend by default</title>
+      <link>https://www.hellorust.com/news/native-wasm-target.html</link>
+      <guid>https://www.hellorust.com/news/native-wasm-target.html</guid>
+    </item>
+    <item>
+      <title>Lisp in fewer than 200 lines of C</title>
+      <link>https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html</link>
+      <guid>https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html</guid>
+    </item>
+    <item>
+      <title>Clojure Design Patterns</title>
+      <link>http://mishadoff.com/blog/clojure-design-patterns/</link>
+      <guid>http://mishadoff.com/blog/clojure-design-patterns/</guid>
+    </item>
+    <item>
+      <title>Free online courses from top universities</title>
+      <link>http://www.openculture.com/freeonlinecourses</link>
+      <guid>http://www.openculture.com/freeonlinecourses</guid>
+    </item>
+    <item>
+      <title>Sending a Spacecraft to the Interstellar Asteroid</title>
+      <link>https://arxiv.org/abs/1711.03155</link>
+      <guid>https://arxiv.org/abs/1711.03155</guid>
+    </item>
+    <item>
+      <title>SSH vs. OpenVPN for Tunneling</title>
+      <link>http://blog.backslasher.net/ssh-openvpn-tunneling.html</link>
+      <guid>http://blog.backslasher.net/ssh-openvpn-tunneling.html</guid>
+    </item>
+    <item>
+      <title>More Than a Million Pro-Repeal Net Neutrality Comments Were Likely Faked</title>
+      <link>https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6</link>
+      <guid>https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6</guid>
+    </item>
+    <item>
+      <title>Linked List Problems (2002) [pdf]</title>
+      <link>http://cslibrary.stanford.edu/105/LinkedListProblems.pdf</link>
+      <guid>http://cslibrary.stanford.edu/105/LinkedListProblems.pdf</guid>
+    </item>
+    <item>
+      <title>Ask HN: CS papers for software architecture and design?</title>
+      <link>https://news.ycombinator.com/item?id=15775548</link>
+      <guid>https://news.ycombinator.com/item?id=15775548</guid>
+    </item>
+    <item>
+      <title>My unusual hobby</title>
+      <link>https://www.stephanboyer.com/post/134/my-unusual-hobby</link>
+      <guid>https://www.stephanboyer.com/post/134/my-unusual-hobby</guid>
+    </item>
+    <item>
+      <title>Call for the Resignation of FCC Chairman Ajit Varadaraj Pai</title>
+      <link>https://petitions.whitehouse.gov/petition/we-people-call-resignation-fcc-chairman-ajit-varadaraj-pai</link>
+      <guid>https://petitions.whitehouse.gov/petition/we-people-call-resignation-fcc-chairman-ajit-varadaraj-pai</guid>
+    </item>
+    <item>
+      <title>Ciao, Chrome: Firefox Quantum Is the Browser Built for 2017</title>
+      <link>https://www.wired.com/story/firefox-quantum-the-browser-built-for-2017/</link>
+      <guid>https://www.wired.com/story/firefox-quantum-the-browser-built-for-2017/</guid>
+    </item>
+    <item>
+      <title>Show HN: Nebula – Alarm clock where you grow stars while you sleep</title>
+      <link>https://alextumanov.com/</link>
+      <guid>https://alextumanov.com/</guid>
+    </item>
+    <item>
+      <title>Dither stabilisation</title>
+      <link>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</link>
+      <guid>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</guid>
+    </item>
+    <item>
+      <title>Glowstone: open-source Minecraft server</title>
+      <link>https://glowstone.net</link>
+      <guid>https://glowstone.net</guid>
+    </item>
+    <item>
+      <title>The sequence 1 1 ∞ 5 6 3 3 3</title>
+      <link>https://ipfs.io/ipfs/QmfN5DojVnEsf1Une3DFwfUiFpfWnQf31f61qgybiXVeQE/blog/spheres-and-points/</link>
+      <guid>https://ipfs.io/ipfs/QmfN5DojVnEsf1Une3DFwfUiFpfWnQf31f61qgybiXVeQE/blog/spheres-and-points/</guid>
+    </item>
+    <item>
+      <title>How do I permanently delete my account?</title>
+      <link>https://www.facebook.com/help/224562897555674/</link>
+      <guid>https://www.facebook.com/help/224562897555674/</guid>
+    </item>
+    <item>
+      <title>The Western Elite from a Chinese Perspective</title>
+      <link>https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/</link>
+      <guid>https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/</guid>
+    </item>
+    <item>
+      <title>The Girl with the Brick Earring</title>
+      <link>http://lucaswoltmann.de/art%27n%27images/2017/04/08/the-girl-with-the-brick-earring.html</link>
+      <guid>http://lucaswoltmann.de/art%27n%27images/2017/04/08/the-girl-with-the-brick-earring.html</guid>
+    </item>
+    <item>
+      <title>A growing number of young Americans are leaving desk jobs to farm</title>
+      <link>https://www.washingtonpost.com/business/economy/a-growing-number-of-young-americans-are-leaving-desk-jobs-to-farm/2017/11/23/e3c018ae-c64e-11e7-afe9-4f60b5a6c4a0_story.html</link>
+      <guid>https://www.washingtonpost.com/business/economy/a-growing-number-of-young-americans-are-leaving-desk-jobs-to-farm/2017/11/23/e3c018ae-c64e-11e7-afe9-4f60b5a6c4a0_story.html</guid>
+    </item>
+    <item>
+      <title>I fell down a bit of a ruins research rabbithole today</title>
+      <link>https://twitter.com/paulmmcooper/status/933753595174031361</link>
+      <guid>https://twitter.com/paulmmcooper/status/933753595174031361</guid>
+    </item>
+    <item>
+      <title>Terrain rendering in fewer than 20 lines of code</title>
+      <link>https://github.com/s-macke/VoxelSpace</link>
+      <guid>https://github.com/s-macke/VoxelSpace</guid>
+    </item>
+    <item>
+      <title>The Problem of Doctors’ Salaries</title>
+      <link>https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557</link>
+      <guid>https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557</guid>
+    </item>
+    <item>
+      <title>Show HN: LogoFox – fast logo maker</title>
+      <link>https://logofox.co/form/name?utm_source=hackernews</link>
+      <guid>https://logofox.co/form/name?utm_source=hackernews</guid>
+    </item>
+    <item>
+      <title>Cortana is really bad</title>
+      <link>https://medium.com/@johndavidback/cortana-is-really-really-bad-6ca96733ef4d</link>
+      <guid>https://medium.com/@johndavidback/cortana-is-really-really-bad-6ca96733ef4d</guid>
+    </item>
+    <item>
+      <title>Bitcoin Mining Now Consuming More Electricity Than Many Countries</title>
+      <link>https://powercompare.co.uk/bitcoin/</link>
+      <guid>https://powercompare.co.uk/bitcoin/</guid>
+    </item>
+    <item>
+      <title>Sugar industry withheld possible evidence of cancer link 50 years ago</title>
+      <link>https://www.pbs.org/newshour/science/sugar-industry-withheld-possible-evidence-of-cancer-link-50-years-ago-researchers-say</link>
+      <guid>https://www.pbs.org/newshour/science/sugar-industry-withheld-possible-evidence-of-cancer-link-50-years-ago-researchers-say</guid>
+    </item>
+    <item>
+      <title>Show HN: Gophercises – Coding Exercises for Budding Gophers</title>
+      <link>https://gophercises.com/</link>
+      <guid>https://gophercises.com/</guid>
+    </item>
+    <item>
+      <title>I'm on the FCC. Please stop us from killing net neutrality</title>
+      <link>http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html</link>
+      <guid>http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html</guid>
+    </item>
+    <item>
+      <title>“I thought I could ship at least 700 units to stay in business”</title>
+      <link>https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php</link>
+      <guid>https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php</guid>
+    </item>
+    <item>
+      <title>Workers at Amazon's main Italian hub, German warehouses strike on Black Friday</title>
+      <link>https://www.reuters.com/article/us-amazon-italy-strike/workers-at-amazons-main-italian-site-to-hold-first-strike-on-black-friday-idUSKBN1DN1DS</link>
+      <guid>https://www.reuters.com/article/us-amazon-italy-strike/workers-at-amazons-main-italian-site-to-hold-first-strike-on-black-friday-idUSKBN1DN1DS</guid>
+    </item>
+    <item>
+      <title>Why we never thank open source maintainers</title>
+      <link>https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/</link>
+      <guid>https://windsooon.github.io/2017/11/23/Why%20we%20never%20thank%20open%20source%20maintainers/</guid>
+    </item>
+    <item>
+      <title>HQ CEO: If You Run This Profile, We’ll Fire Our Host</title>
+      <link>https://www.thedailybeast.com/ceo-of-hq-the-hottest-app-going-if-you-run-this-profile-well-fire-our-host</link>
+      <guid>https://www.thedailybeast.com/ceo-of-hq-the-hottest-app-going-if-you-run-this-profile-well-fire-our-host</guid>
+    </item>
+    <item>
+      <title>A Man Who Has Lived Alone on an Island for 28 Years</title>
+      <link>https://www.nationalgeographic.com/travel/destinations/europe/italy/photos-of-life-alone-on-a-paradise-island/</link>
+      <guid>https://www.nationalgeographic.com/travel/destinations/europe/italy/photos-of-life-alone-on-a-paradise-island/</guid>
+    </item>
+    <item>
+      <title>I'm Testifying to Congress about Data Breaches – What Should I Say?</title>
+      <link>https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/</link>
+      <guid>https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/</guid>
+    </item>
+    <item>
+      <title>Ketamine lifts rodents' mood only if administered by male researchers</title>
+      <link>http://www.nature.com/news/sex-matters-in-experiments-on-party-drug-in-mice-1.23022</link>
+      <guid>http://www.nature.com/news/sex-matters-in-experiments-on-party-drug-in-mice-1.23022</guid>
+    </item>
+    <item>
+      <title>Warning Signs About Another Giant Bitcoin Exchange</title>
+      <link>https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html</link>
+      <guid>https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html</guid>
+    </item>
+    <item>
+      <title>A CEO's Guide to Emacs (2015)</title>
+      <link>https://blog.fugue.co/2015-11-11-guide-to-emacs.html</link>
+      <guid>https://blog.fugue.co/2015-11-11-guide-to-emacs.html</guid>
+    </item>
+    <item>
+      <title>Join the Battle for Net Neutrality</title>
+      <link>https://www.battleforthenet.com/</link>
+      <guid>https://www.battleforthenet.com/</guid>
+    </item>
+    <item>
+      <title>Linus Torvalds: “Do No Harm”</title>
+      <link>https://lkml.org/lkml/2017/11/21/356</link>
+      <guid>https://lkml.org/lkml/2017/11/21/356</guid>
+    </item>
+    <item>
+      <title>Stop Using Excel, Finance Chiefs Tell Staffs</title>
+      <link>https://www.wsj.com/articles/stop-using-excel-finance-chiefs-tell-staffs-1511346601</link>
+      <guid>https://www.wsj.com/articles/stop-using-excel-finance-chiefs-tell-staffs-1511346601</guid>
+    </item>
+    <item>
+      <title>An Open Letter to the FCC</title>
+      <link>https://medium.com/@AGSchneiderman/an-open-letter-to-the-fcc-b867a763850a</link>
+      <guid>https://medium.com/@AGSchneiderman/an-open-letter-to-the-fcc-b867a763850a</guid>
+    </item>
+  </channel>
+</rss>

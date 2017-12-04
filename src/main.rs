@@ -8,7 +8,7 @@ use hyper::client::Response;
 use std::fs::File;
 use std::io::{BufReader, Write, BufWriter};
 use xml::reader;
-use xml::writer;
+use xml::writer::{EmitterConfig, XmlEvent};
 
 use select::document::Document;
 use select::predicate::{Predicate, Class, Name};
@@ -27,31 +27,56 @@ fn main() {
     // let res = Client::new().get("http://www.daemonology.net/hn-daily/index.rss").send().unwrap();
     // let parser = reader::EventReader::new(res);
 
-    let articles: Vec<String> = extract_description_cdatas(parser)
+    let articles: Vec<Article> = extract_description_cdatas(parser)
         .into_iter()
         .map(|desc|Document::from(&desc[..]))
         .flat_map(parse_description_document)
-        .map(to_rss_item)
+        // .map(to_rss_item)
         .collect();
     
-    // let mut outfile = File::create("output.xml").unwrap();
-    // let mut writer = writer::EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
-    let outfile = File::create("hn-scraper-scraper.xml").expect("Unable to create file");
-    let mut outfile = BufWriter::new(outfile);
+    let mut outfile = File::create("hn-scraper-scraper.xml").expect("Unable to create file");
+    let mut writer = EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
-    let rss_start =
-        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\
-         <rss version=\"2.0\">
-           <channel>
-             <title>Hacker News Scraper Scraper</title>\n";
-    outfile.write_all(rss_start.as_bytes()).expect("Unable to write data");
+    let error_msg = String::from("error while writing element");
+    writer.write(XmlEvent::start_element("rss")).expect(&error_msg);
+    writer.write(XmlEvent::start_element("channel")).expect(&error_msg);
+
+    writer.write(XmlEvent::start_element("title")).expect(&error_msg);
+    writer.write(XmlEvent::characters("Hacker News Scraper Scraper")).expect(&error_msg);
+    writer.write(XmlEvent::end_element()).expect(&error_msg);
 
     for article in &articles {
-        outfile.write_all(article.as_bytes()).expect("Unable to write data");
+        writer.write(XmlEvent::start_element("item")).expect(&error_msg);
+        writer.write(XmlEvent::start_element("title")).expect(&error_msg);
+        writer.write(XmlEvent::characters(&article.title)).expect(&error_msg);
+        writer.write(XmlEvent::end_element()).expect(&error_msg);
+        writer.write(XmlEvent::start_element("link")).expect(&error_msg);
+        writer.write(XmlEvent::characters(&article.link)).expect(&error_msg);
+        writer.write(XmlEvent::end_element()).expect(&error_msg);
+        writer.write(XmlEvent::start_element("guid")).expect(&error_msg);
+        writer.write(XmlEvent::characters(&article.link)).expect(&error_msg);
+        writer.write(XmlEvent::end_element()).expect(&error_msg);
+        writer.write(XmlEvent::end_element()).expect(&error_msg);
     }
+    writer.write(XmlEvent::end_element()).expect(&error_msg);
+    writer.write(XmlEvent::end_element()).expect(&error_msg);
 
-    let rss_end = "</channel></rss>";
-    outfile.write_all(rss_end.as_bytes()).expect("Unable to write data");
+    // start string writer
+    // let mut outfile = BufWriter::new(outfile);
+
+    // let rss_start =
+    //     "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\
+    //      <rss version=\"2.0\">
+    //        <channel>
+    //          <title>Hacker News Scraper Scraper</title>\n";
+    // outfile.write_all(rss_start.as_bytes()).expect("Unable to write data");
+
+    // for article in &articles {
+    //     outfile.write_all(article.as_bytes()).expect("Unable to write data");
+    // }
+
+    // let rss_end = "</channel></rss>";
+    // outfile.write_all(rss_end.as_bytes()).expect("Unable to write data");
 }
 
 fn to_rss_item(article: Article) -> String {
