@@ -6,7 +6,7 @@ use hyper::Client;
 use hyper::client::Response;
 
 use std::fs::File;
-use std::io::{BufReader, Write, BufWriter};
+use std::io::BufReader;
 use xml::reader;
 use xml::writer::{EmitterConfig, XmlEvent};
 
@@ -31,7 +31,6 @@ fn main() {
         .into_iter()
         .map(|desc|Document::from(&desc[..]))
         .flat_map(parse_description_document)
-        // .map(to_rss_item)
         .collect();
     
     let mut outfile = File::create("hn-scraper-scraper.xml").expect("Unable to create file");
@@ -60,27 +59,6 @@ fn main() {
     }
     writer.write(XmlEvent::end_element()).expect(&error_msg);
     writer.write(XmlEvent::end_element()).expect(&error_msg);
-
-    // start string writer
-    // let mut outfile = BufWriter::new(outfile);
-
-    // let rss_start =
-    //     "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\
-    //      <rss version=\"2.0\">
-    //        <channel>
-    //          <title>Hacker News Scraper Scraper</title>\n";
-    // outfile.write_all(rss_start.as_bytes()).expect("Unable to write data");
-
-    // for article in &articles {
-    //     outfile.write_all(article.as_bytes()).expect("Unable to write data");
-    // }
-
-    // let rss_end = "</channel></rss>";
-    // outfile.write_all(rss_end.as_bytes()).expect("Unable to write data");
-}
-
-fn to_rss_item(article: Article) -> String {
-    format!("<item><title>{}</title><link>{}</link><guid>{}</guid></item>\n", article.title, article.link, article.link)
 }
 
 fn parse_description_document(document: Document) -> Vec<Article> {
