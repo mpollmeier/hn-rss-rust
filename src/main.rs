@@ -7,6 +7,7 @@ use hyper::client::Response;
 
 use std::fs::File;
 use std::io::BufReader;
+use std::env;
 use xml::reader;
 use xml::writer::{EmitterConfig, XmlEvent};
 
@@ -20,6 +21,15 @@ struct Article {
 }
 
 fn main() {
+    let args: Vec<_> = env::args().collect();
+    let outfile: String = 
+        if args.len() > 1 {
+            args[1].to_string()
+        } else {
+            String::from("hn-scraper-scraper.xml")
+        };
+    println!("writing results to {}", outfile);
+
     let file = File::open("hn-index2.rss").unwrap();
     let file = BufReader::new(file);
     let parser = reader::EventReader::new(file);
@@ -33,7 +43,7 @@ fn main() {
         .flat_map(parse_description_document)
         .collect();
     
-    let mut outfile = File::create("hn-scraper-scraper.xml").expect("Unable to create file");
+    let mut outfile = File::create(outfile).expect("Unable to create file");
     let mut writer = EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
     let error_msg = String::from("error while writing element");
