@@ -62,16 +62,14 @@ fn main() {
 }
 
 fn parse_description_document(document: Document) -> Vec<Article> {
-    let mut articles: Vec<Article> = Vec::new();
-    for node in document.find(Class("storylink").descendant(Name("a"))) {
-        articles.push(
-            Article {
-                title: node.text(),
-                link: node.attr("href").unwrap().to_string()
-            }
-        );
-    }
-    articles
+    document.find(Class("storylink").descendant(Name("a")))
+        .into_iter()
+        .map(|node|
+          Article {
+              title: node.text(),
+              link: node.attr("href").unwrap().to_string()
+          }
+        ).collect()
 }
 
 fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> Vec<String> {
