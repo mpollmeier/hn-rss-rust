@@ -38,7 +38,7 @@ fn main() {
     let mut writer = EmitterConfig::new().perform_indent(true).create_writer(&mut outfile);
 
     let error_msg = String::from("error while writing element");
-    writer.write(XmlEvent::start_element("rss")).expect(&error_msg);
+    writer.write(XmlEvent::start_element("rss").attr("version", "2.0")).expect(&error_msg);
     writer.write(XmlEvent::start_element("channel")).expect(&error_msg);
 
     writer.write(XmlEvent::start_element("title")).expect(&error_msg);
