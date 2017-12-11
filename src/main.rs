@@ -30,12 +30,12 @@ fn main() {
         };
     println!("writing results to {}", outfile);
 
-    let file = File::open("hn-index2.rss").unwrap();
-    let file = BufReader::new(file);
-    let parser = reader::EventReader::new(file);
+    // let file = File::open("hn-index2.rss").unwrap();
+    // let file = BufReader::new(file);
+    // let parser = reader::EventReader::new(file);
 
-    // let res = Client::new().get("http://www.daemonology.net/hn-daily/index.rss").send().unwrap();
-    // let parser = reader::EventReader::new(res);
+    let res = Client::new().get("http://www.daemonology.net/hn-daily/index.rss").send().unwrap();
+    let parser = reader::EventReader::new(res);
 
     let articles: Vec<Article> = extract_description_cdatas(parser)
         .into_iter()
@@ -82,8 +82,8 @@ fn parse_description_document(document: Document) -> Vec<Article> {
         ).collect()
 }
 
-fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> Vec<String> {
-// fn extract_description_cdatas(parser: reader::EventReader<Response>) -> Vec<String> {
+// fn extract_description_cdatas(parser: reader::EventReader<BufReader<File>>) -> Vec<String> {
+fn extract_description_cdatas(parser: reader::EventReader<Response>) -> Vec<String> {
     let mut contents: Vec<String> = Vec::new();
     for e in parser {
         match e {
